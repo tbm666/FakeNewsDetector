@@ -1,7 +1,5 @@
 # Fake News Detector README
 
-# Fake News Detector
-
 Простой детектор фейковых новостей на Python с использованием машинного обучения.
 
 ## Описание
