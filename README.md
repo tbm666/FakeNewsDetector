@@ -26,13 +26,13 @@ python fake_news_detector.py
 ## Files
 
 ## Project Structure
-'''
+"""
 FakeNewsDetector/
 ├── fake_news_detector.py
 ├── README.md
 ├── requirements.txt
 └── traindata.csv
-'''
+"""
 
 ## Author
 
