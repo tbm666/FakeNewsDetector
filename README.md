@@ -25,11 +25,11 @@ python fake_news_detector.py
 
 ## Files
 
-FakeNewsDetector/
-├── fake_news_detector.py
-├── README.md
-├── requirements.txt
-└── traindata.csv
+📁 FakeNewsDetector/
+├── 🐍 fake_news_detector.py
+├── 📖 README.md
+├── 📦 requirements.txt
+└── 🗃️ traindata.csv
 
 ## Author
 
